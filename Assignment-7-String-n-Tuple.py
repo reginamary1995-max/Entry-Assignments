@@ -3,8 +3,8 @@
 # input from the user and concatenates them together. Display the concatenated string as
 # the output./
 string1 = "Hello "
-# string2 = input("Enter the name: ")
-string2 = "ggg"
+string2 = input("Enter the name: ")
+# string2 = "ggg"
 
 print(string1 + string2)
 
